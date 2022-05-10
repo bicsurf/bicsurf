@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <!--- END ABOUT ME --->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1413B6&background=76767600&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer)](https://git.io/typing-svg)
 
 <!--- BADGE LINKEDIN --->
 <div id="badges" align="center">
@@ -58,13 +59,42 @@ You can click the Preview link to take a look at your changes.
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
       </a>
       <a href="#" rel="nofollow">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
-      </a>
-      <a href="#" rel="nofollow">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
       </a>
    </p>
-<!--- END LINGUAGGI STUDIATI --->
+<!--- END BACKEND --->
+
+<!--- TOOLS --->
+<h3 dir="auto">Software & Tools</h3>
+   <p align="center" dir="auto">
+      <a href="#" rel="nofollow">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
+      </a>
+      <a href="#" rel="nofollow">
+         <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab"  alt="GITLAB" width="50" height="50"/>&nbsp;
+      </a>
+   </p>
+<!--- END TOOLS --->
+
+<!--- IDEs --->
+<h3 dir="auto">IDEs</h3>
+   <p align="center" dir="auto">
+      <a href="#" rel="nofollow">
+         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VSCODE" alt="VSCODE" width="50" height="50"/>
+      </a>
+   </p>
+<!--- END IDEs --->
+
+<!--- METODOLOGIA AGILE --->
+<h3 dir="auto">Agile</h3>
+   <p align="center" dir="auto">
+      <a href="#" rel="nofollow">
+         <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="50" height="50"/>
+      </a>
+   </p>
+<!--- END METODOLOGIA AGILE --->
+
+
 
 <hr>
 
