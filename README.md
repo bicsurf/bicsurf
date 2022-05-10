@@ -4,7 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--- INTRO --->
 <p align="center">
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1413B6&background=76767600&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer)](https://git.io/typing-svg)
+   <a href="#">
+      [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1413B6&background=76767600&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer)](https://git.io/typing-svg)
+   </a>
 </p>
 
 
