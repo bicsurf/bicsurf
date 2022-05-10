@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
       <img src="https://readme-typing-svg.herokuapp.com?color=1413B6&background=76767600&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer" data-canonical-src="https://git.io/typing-svg" style="max-width: 100%;" />
    </a>
 </p>
+<!--- END INTRO --->
 
 
 <!--- ABOUT ME --->
@@ -16,7 +17,6 @@ You can click the Preview link to take a look at your changes.
    <p>Ciao mi chiamo <strong>Francesco</strong> e da circa tre mesi ho iniziato a studiare per diventare un Junior Full Stack Developer con <strong>Aulab</strong></p>
 </div>
 <!--- END ABOUT ME --->
-
 
 <!--- BADGE LINKEDIN --->
 <div id="badges" align="center">
@@ -27,7 +27,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 <!--- END BADGE LINKEDIN --->
 
-<hr>
 
 <!--- LINGUAGGI STUDIATI --->
 <!--- FRONTEND --->
@@ -86,7 +85,7 @@ You can click the Preview link to take a look at your changes.
 <h3 dir="auto">IDEs</h3>
    <p align="center" dir="auto">
       <a href="#" rel="nofollow">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VSCODE" alt="VSCODE" width="50" height="50"/>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VSCODE" alt="VSCODE" width="60" height="60"/>
       </a>
    </p>
 <!--- END IDEs --->
@@ -95,11 +94,10 @@ You can click the Preview link to take a look at your changes.
 <h3 dir="auto">Agile</h3>
    <p align="center" dir="auto">
       <a href="#" rel="nofollow">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="50" height="50"/>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="60" height="60"/>
       </a>
    </p>
 <!--- END METODOLOGIA AGILE --->
-
 
 
 <hr>
