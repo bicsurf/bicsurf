@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--- BADGE LINKEDIN --->
 <div id="badges" align="center">
-   <p>Contattami</p>
+   <h2>Contattami</h2>
    <a href="https://www.linkedin.com/in/francesco-conoscenti-99178015b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
