@@ -100,8 +100,6 @@ You can click the Preview link to take a look at your changes.
 <!--- END METODOLOGIA AGILE --->
 
 
-<hr>
-
 <!--- STATISTICHE GITHUB --->
 <h2>Github Stats</h2>
 <table align="center">
