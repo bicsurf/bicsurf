@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
    <a href="https://www.linkedin.com/in/francesco-conoscenti-99178015b/">
       <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="LINKEDIN" width="60" height="60"/>&nbsp;
    </a>
-   <iframe src="https://giphy.com/embed/yDM1kJZthxFPoGDdmq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/social-media-linkedin-hhvprod-yDM1kJZthxFPoGDdmq">via GIPHY</a></p>
+   <img align="right" alt="GIF" width="300" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" data-canonical-src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="max-width: 100%;">
 </div>
 <!--- END BADGE LINKEDIN --->
 
