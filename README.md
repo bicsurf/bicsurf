@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 <!--- BADGE LINKEDIN --->
 <div id="badges" align="center">
-   <h2>Contattami</h2>
+   <p><strong>Contattami</strong></p>
    <a href="https://www.linkedin.com/in/francesco-conoscenti-99178015b/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="LINKEDIN" width="60" height="60"/>&nbsp;
    </a>
 </div>
 <!--- END BADGE LINKEDIN --->
