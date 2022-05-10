@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <!--- ABOUT ME --->
 <div align="center">
    <a id="user-content-welcome-to-my-github-im-francesco-a-front-end-dev" class="anchor" aria-hidden="true" href="#welcome-to-my-github-im-francesco-a-front-end-dev">  </a>
-   <i>Ciao mi chiamo <strong>Francesco</strong> e ho iniziato a studiare per diventare uno sviluppatore Front-end con <strong>Aulab</strong></i>
+   <p>Ciao mi chiamo <strong>Francesco</strong> e da circa tre mesi ho iniziato a studiare per diventare un Junior Full Stack Developer con <strong>Aulab</strong></p>
 </div>
 <!--- END ABOUT ME --->
 
@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
    <a href="https://www.linkedin.com/in/francesco-conoscenti-99178015b/">
       <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="LINKEDIN" width="60" height="60"/>&nbsp;
    </a>
+   <iframe src="https://giphy.com/embed/yDM1kJZthxFPoGDdmq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/social-media-linkedin-hhvprod-yDM1kJZthxFPoGDdmq">via GIPHY</a></p>
 </div>
 <!--- END BADGE LINKEDIN --->
 
@@ -50,5 +51,5 @@ You can click the Preview link to take a look at your changes.
 
 <!--- STATISTICHE GITHUB --->
    <h3>Statistiche di GitHub</h3>
-   (http://github-readme-streak-stats.herokuapp.com?user=bicusrf&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bicsurf&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--- END STATISTICHE GITHUB --->
