@@ -103,7 +103,7 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 <!--- STATISTICHE GITHUB --->
-<table>
+<table align="center">
    <thead>
       <tr>
          <th>
