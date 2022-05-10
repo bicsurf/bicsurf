@@ -13,10 +13,12 @@ You can click the Preview link to take a look at your changes.
 
 <!--- BADGE LINKEDIN --->
 <div id="badges" align="center">
-   <a href="https://www.linkedin.com/in/francesco-conoscenti-99178015b/">
-      <img align="right" alt="GIF" width="60" src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif" >
-   </a>
-   <h3><strong>Contattami</strong></h3>
+   <h3>
+      <strong>Contattami</strong>
+      <a href="https://www.linkedin.com/in/francesco-conoscenti-99178015b/">
+         <img align="right" alt="GIF" width="60" src="https://media.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.gif" >
+      </a>
+   </h3>
    
 </div>
 <!--- END BADGE LINKEDIN --->
