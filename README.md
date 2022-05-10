@@ -23,27 +23,29 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 <!--- LINGUAGGI STUDIATI --->
-<div>
-  <h3><strong>My Skills</strong></h3>
-   <p align="center">
-      <a>
-         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-      </a>
-      <a>
-         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-      </a>
-      <a>
-         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="BOOTSTRAP" alt="BOOTSTRAP" width="50" height="50"/>&nbsp;
-      </a>
-      <a>
-         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-      </a>
-      <a>
-         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUEJS" alt="VUEJS" width="50" height="50"/>&nbsp;
-      </a>
-   </p>
+<!--- FRONTEND --->
+<h2>My Skills</h2>
+<h3 dir="auto">Frontend Development</h3>
+<p align="center" dir="auto">
+   <a href="#" rel="nofollow">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+   </a>
+   <a href="#" rel="nofollow">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+   </a>
+   <a href="#" rel="nofollow">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="BOOTSTRAP" alt="BOOTSTRAP" width="50" height="50"/>&nbsp;
+   </a>
+   <a href="#" rel="nofollow">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+   </a>
+   <a href="#" rel="nofollow">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUEJS" alt="VUEJS" width="50" height="50"/>&nbsp;
+   </a>
+</p>
+<!--- END FRONTEND --->
 
-<div>
+<!--- BACKEND --->
   <h3><strong>BACK-END</strong></h3>
 </div>
 <div>
