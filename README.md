@@ -37,3 +37,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 <!--- END LINGUAGGI STUDIATI --->
+
+<!--- STATISTICHE GITHUB --->
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bicsurf&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!--- END STATISTICHE GITHUB --->
