@@ -24,19 +24,17 @@ You can click the Preview link to take a look at your changes.
 
 <!--- LINGUAGGI STUDIATI --->
 <div>
-   <div align="center">
-     <h3><strong>FRONT-END</strong></h3>
-   </div>
-   <div>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="BOOTSTRAP" alt="BOOTSTRAP" width="50" height="50"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUEJS" alt="VUEJS" width="50" height="50"/>&nbsp;
-   </div>
+  <h3><strong>FRONT-END</strong></h3>
+</div>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="BOOTSTRAP" alt="BOOTSTRAP" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUEJS" alt="VUEJS" width="50" height="50"/>&nbsp;
 </div>
 
-<div align="center">
+<div>
   <h3><strong>BACK-END</strong></h3>
 </div>
 <div>
@@ -52,5 +50,5 @@ You can click the Preview link to take a look at your changes.
 
 <!--- STATISTICHE GITHUB --->
    <h3>Statistiche di GitHub</h3>
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bicusrf&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+   (http://github-readme-streak-stats.herokuapp.com?user=bicusrf&theme=Javascript-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--- END STATISTICHE GITHUB --->
