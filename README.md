@@ -103,5 +103,20 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 <!--- STATISTICHE GITHUB --->
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=bicsurf&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia)](https://git.io/streak-stats)
+<table>
+   <thead>
+      <tr>
+         <th>
+            <a href="#">
+               <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bicsurf&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" style="max-width:100%;" />
+            </a>
+         </th>
+         <th>
+            <a href="#">
+               <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bicsurf&layout=compact&theme=buefy&hide_border=true" style="max-width:100%;" />
+            </a>
+         </th>
+      </tr>
+   </thead>
+</table>
 <!--- END STATISTICHE GITHUB --->
