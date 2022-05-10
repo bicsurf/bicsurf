@@ -49,6 +49,5 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 <!--- STATISTICHE GITHUB --->
-   <h3>Statistiche di GitHub</h3>
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bicsurf&theme=dark)](https://git.io/streak-stats)
 <!--- END STATISTICHE GITHUB --->
