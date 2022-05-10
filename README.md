@@ -46,15 +46,24 @@ You can click the Preview link to take a look at your changes.
 <!--- END FRONTEND --->
 
 <!--- BACKEND --->
-  <h3><strong>BACK-END</strong></h3>
-</div>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="LARAVEL"  alt="LARAVEL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
-</div>
+<h3 dir="auto">Backend Development</h3>
+   <p align="center" dir="auto">
+      <a href="#" rel="nofollow">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="50" height="50"/>&nbsp;
+      </a>
+      <a href="#" rel="nofollow">
+         <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="LARAVEL"  alt="LARAVEL" width="50" height="50"/>&nbsp;
+      </a>
+      <a href="#" rel="nofollow">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+      </a>
+      <a href="#" rel="nofollow">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+      </a>
+      <a href="#" rel="nofollow">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+      </a>
+   </p>
 <!--- END LINGUAGGI STUDIATI --->
 
 <hr>
