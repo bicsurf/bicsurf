@@ -73,7 +73,7 @@ You can click the Preview link to take a look at your changes.
 <h3 dir="auto">Software & Tools</h3>
    <p align="center" dir="auto">
       <a href="#" rel="nofollow">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
       </a>
       <a href="#" rel="nofollow">
          <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab"  alt="GITLAB" width="50" height="50"/>&nbsp;
