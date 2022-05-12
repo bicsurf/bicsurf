@@ -27,7 +27,13 @@ You can click the Preview link to take a look at your changes.
 </div>
 <!--- END BADGE LINKEDIN --->
 
-
+<!--- Immagine coding --->
+<p>
+   <a href="#" target="_blank" rel="noopener noreferrer">
+      <img align="right" height="250" width="400" alt="GIF coding" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%;" />
+   </a>
+</p>
+<!--- End immagine --->
 <!--- LINGUAGGI STUDIATI --->
 <!--- FRONTEND --->
 <h2>My Skills</h2>
