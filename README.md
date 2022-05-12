@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <!--- LINGUAGGI STUDIATI --->
 <!--- FRONTEND --->
 <h2>:wrench: My Skills</h2>
-<h3 dir="auto">Frontend Development</h3>
+<h3 dir="auto">:point_right: Frontend Development</h3>
 <p align="center" dir="auto">
    <a href="https://www.w3schools.com/html/" rel="nofollow" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 <!--- End immagine --->
 
 <!--- BACKEND --->
-<h3 dir="auto">Backend Development</h3>
+<h3 dir="auto">:arrow_right: Backend Development</h3>
    <p align="center" dir="auto">
       <a href="https://www.php.net/" rel="nofollow" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="70" height="70"/>&nbsp;
