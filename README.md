@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <!--- BADGE LINKEDIN --->
 <div id="badges" align="center">
    <h3><strong>Contattami</strong></h3>
-   <a href="https://www.linkedin.com/in/francesco-conoscenti-99178015b/">
+   <a href="https://www.linkedin.com/in/francesco-conoscenti/">
       <img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" title="likedin" alt="linkedin" width="160" height="160"/>&nbsp;
    </a>
 </div>              
