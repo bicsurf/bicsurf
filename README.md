@@ -24,11 +24,7 @@ You can click the Preview link to take a look at your changes.
    <a href="https://www.linkedin.com/in/francesco-conoscenti-99178015b/">
       <img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" title="likedin" alt="linkedin" width="160" height="160"/>&nbsp;
    </a>
-</div>
-<div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="francesco-conoscenti" data-version="v1">
-   <a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/francesco-conoscenti?trk=profile-badge">Francesco Conoscenti</a>
-</div>
-              
+</div>              
 <!--- END BADGE LINKEDIN --->
 
 
