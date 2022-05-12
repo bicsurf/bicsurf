@@ -63,16 +63,16 @@ You can click the Preview link to take a look at your changes.
 <h3 dir="auto">Backend Development</h3>
    <p align="center" dir="auto">
       <a href="https://www.php.net/" rel="nofollow">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="70" height="70"/>&nbsp;
       </a>
       <a href="https://laravel.com/docs/9.x" rel="nofollow">
          <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="LARAVEL"  alt="LARAVEL" width="50" height="50"/>&nbsp;
       </a>
       <a href="https://www.mysql.com/it/" rel="nofollow">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
       </a>
       <a href="https://nodejs.org/it/" rel="nofollow">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="70" height="70"/>&nbsp;
       </a>
    </p>
 <!--- END BACKEND --->
@@ -93,7 +93,7 @@ You can click the Preview link to take a look at your changes.
 <h3 dir="auto">IDEs</h3>
    <p align="center" dir="auto">
       <a href="https://code.visualstudio.com/" rel="nofollow">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VSCODE" alt="VSCODE" width="100" height="100"/>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VSCODE" alt="VSCODE" width="120" height="120"/>
       </a>
    </p>
 <!--- END IDEs --->
