@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 <!--- END FRONTEND --->
 
 <!--- Immagine coding --->
-<p height="600">
+<p style="height=600px;">
    <a href="#" target="_blank" rel="noopener noreferrer">
       <img align="right" height="400" width="400" alt="GIF coding" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%;" />
    </a>
@@ -93,7 +93,7 @@ You can click the Preview link to take a look at your changes.
 <h3 dir="auto">IDEs</h3>
    <p align="center" dir="auto">
       <a href="#" rel="nofollow">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VSCODE" alt="VSCODE" width="60" height="60"/>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VSCODE" alt="VSCODE" width="80" height="80"/>
       </a>
    </p>
 <!--- END IDEs --->
@@ -102,7 +102,7 @@ You can click the Preview link to take a look at your changes.
 <h3 dir="auto">Agile</h3>
    <p align="center" dir="auto">
       <a href="#" rel="nofollow">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="60" height="60"/>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="70" height="70"/>
       </a>
    </p>
 <!--- END METODOLOGIA AGILE --->
