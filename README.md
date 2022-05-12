@@ -27,13 +27,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 <!--- END BADGE LINKEDIN --->
 
-<!--- Immagine coding --->
-<p>
-   <a href="#" target="_blank" rel="noopener noreferrer">
-      <img align="right" height="600" width="400" alt="GIF coding" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%;" />
-   </a>
-</p>
-<!--- End immagine --->
 
 <!--- LINGUAGGI STUDIATI --->
 <!--- FRONTEND --->
@@ -57,6 +50,14 @@ You can click the Preview link to take a look at your changes.
    </a>
 </p>
 <!--- END FRONTEND --->
+
+<!--- Immagine coding --->
+<p>
+   <a href="#" target="_blank" rel="noopener noreferrer">
+      <img align="right" height="600" width="500" alt="GIF coding" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%;" />
+   </a>
+</p>
+<!--- End immagine --->
 
 <!--- BACKEND --->
 <h3 dir="auto">Backend Development</h3>
