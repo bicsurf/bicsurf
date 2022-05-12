@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <div id="badges" align="center">
    <h3><strong>Contattami</strong></h3>
    <a href="https://www.linkedin.com/in/francesco-conoscenti-99178015b/">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" target="_blank" title="likedin" alt="linkedin" width="60" height="60"/>&nbsp;
+      <img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" title="likedin" alt="linkedin" width="60" height="60"/>&nbsp;
    </a>
 </div>
 <!--- END BADGE LINKEDIN --->
