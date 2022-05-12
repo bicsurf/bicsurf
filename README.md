@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--- LINGUAGGI STUDIATI --->
 <!--- FRONTEND --->
-<h2 style="color:Orange;">My Skills</h2>
+<h2>My Skills :wrench:</h2>
 <h3 dir="auto">Frontend Development</h3>
 <p align="center" dir="auto">
    <a href="https://www.w3schools.com/html/" rel="nofollow" target="_blank">
