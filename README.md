@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 <!--- Immagine coding --->
 <p>
    <a href="#" target="_blank" rel="noopener noreferrer">
-      <img align="right" height="250" width="400" alt="GIF coding" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%;" />
+      <img align="right" height="500" width="500" alt="GIF coding" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%;" />
    </a>
 </p>
 <!--- End immagine --->
