@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 <!--- End immagine --->
 
 <!--- BACKEND --->
-<h3 dir="auto">:arrow_right: Backend Development</h3>
+<h3 dir="auto">:point_right: Backend Development</h3>
    <p align="center" dir="auto">
       <a href="https://www.php.net/" rel="nofollow" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="70" height="70"/>&nbsp;
@@ -78,7 +78,7 @@ You can click the Preview link to take a look at your changes.
 <!--- END BACKEND --->
 
 <!--- TOOLS --->
-<h3 dir="auto">Software & Tools</h3>
+<h3 dir="auto">:point_right: Software & Tools</h3>
    <p align="center" dir="auto">
       <a href="https://git-scm.com/" rel="nofollow" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
@@ -90,7 +90,7 @@ You can click the Preview link to take a look at your changes.
 <!--- END TOOLS --->
 
 <!--- IDEs --->
-<h3 dir="auto">IDEs</h3>
+<h3 dir="auto">:point_right: IDEs</h3>
    <p align="center" dir="auto">
       <a href="https://code.visualstudio.com/" rel="nofollow" target="_blank">
          <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VSCODE" alt="VSCODE" width="120" height="120"/>
@@ -99,7 +99,7 @@ You can click the Preview link to take a look at your changes.
 <!--- END IDEs --->
 
 <!--- METODOLOGIA AGILE --->
-<h3 dir="auto">Agile</h3>
+<h3 dir="auto">:point_right: Agile</h3>
    <p align="center" dir="auto">
       <a href="https://trello.com/" rel="nofollow" target="_blank">
          <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="80" height="80"/>
