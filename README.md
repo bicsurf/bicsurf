@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <!--- ABOUT ME --->
 <div align="center">
    <a id="user-content-welcome-to-my-github-im-francesco-a-front-end-dev" class="anchor" aria-hidden="true" href="#welcome-to-my-github-im-francesco-a-front-end-dev">  </a>
-   <p>Ciao mi chiamo <strong>Francesco</strong> e da circa tre mesi ho iniziato a studiare per diventare un Junior Full Stack Developer con <strong>Aulab</strong></p>
+   <p>Ciao mi chiamo <strong>Francesco</strong> e da poco ho concluso un percorso formativo molto intenso con <strong>Aulab</strong> acquisendo le conoscenze base di un Full Stack Developer</p>
 </div>
 <!--- END ABOUT ME --->
 
