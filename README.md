@@ -86,7 +86,7 @@ You can click the Preview link to take a look at your changes.
       <a href="https://about.gitlab.com/" rel="nofollow" target="_blank">
          <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab"  alt="GITLAB" width="50" height="50"/>&nbsp;
       </a>
-      <a href="https://about.gitlab.com/" rel="nofollow" target="_blank">
+      <a href="https://www.figma.com/" rel="nofollow" target="_blank">
          <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="FIGMA" width="50" height="50"/>&nbsp;
       </a>
    </p>
