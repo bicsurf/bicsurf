@@ -99,7 +99,7 @@ You can click the Preview link to take a look at your changes.
 <h3 dir="auto">:point_right: IDEs</h3>
    <p align="center" dir="auto">
       <a href="https://code.visualstudio.com/" rel="nofollow" target="_blank">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VSCODE" alt="VSCODE" width="120" height="120"/>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="120" height="120"/>
       </a>
    </p>
 <!--- END IDEs --->
