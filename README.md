@@ -48,6 +48,9 @@ You can click the Preview link to take a look at your changes.
    <a href="https://vuejs.org/guide/quick-start.html" rel="nofollow" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUEJS" alt="VUEJS" width="50" height="50"/>&nbsp;
    </a>
+   <a href="https://angular.io/start" rel="nofollow" target="_blank">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="VUEJS" alt="VUEJS" width="50" height="50"/>&nbsp;
+   </a>
 </p>
 <!--- END FRONTEND --->
 
