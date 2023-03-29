@@ -99,7 +99,7 @@ You can click the Preview link to take a look at your changes.
 <h3 dir="auto">:point_right: Agile</h3>
    <p align="center" dir="auto">
       <a href="https://trello.com/" rel="nofollow" target="_blank">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="60" height="60"/>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="70" height="70"/>
       </a>
    </p>
 <!--- END METODOLOGIA AGILE --->
