@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
 <!--- BADGE LINKEDIN --->
 <div id="badges" align="center">
    <h3><strong>Vuoi contattarmi?</strong></h3>
-   <p>Clicca qui per scrivermi su
+   <p>
       <a href="https://www.linkedin.com/in/francesco-conoscenti/" target="_blank">
-         LinkedIn
+         Scrivermi su LinkedIn
       </a>
    </p>
 </div>              
