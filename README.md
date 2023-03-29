@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 <!--- BADGE LINKEDIN --->
 <div id="badges" align="center">
-   <h3><strong>Contattami</strong></h3>
+   <h3><strong>Vuoi contattarmi?</strong></h3>
    <a href="https://www.linkedin.com/in/francesco-conoscenti/">
-      <img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" title="likedin" alt="linkedin" width="160" height="160"/>&nbsp;
+      <h4>Clicca qui per scrivermi su LinkedIn</h4>
    </a>
 </div>              
 <!--- END BADGE LINKEDIN --->
@@ -44,9 +44,6 @@ You can click the Preview link to take a look at your changes.
    </a>
    <a href="https://www.w3schools.com/js/" rel="nofollow" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-   </a>
-   <a href="https://vuejs.org/guide/quick-start.html" rel="nofollow" target="_blank">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VUEJS" alt="VUEJS" width="50" height="50"/>&nbsp;
    </a>
    <a href="https://angular.io/start" rel="nofollow" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="VUEJS" alt="VUEJS" width="50" height="50"/>&nbsp;
