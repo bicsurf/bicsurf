@@ -14,7 +14,9 @@ You can click the Preview link to take a look at your changes.
 <!--- ABOUT ME --->
 <div align="center">
    <a id="user-content-welcome-to-my-github-im-francesco-a-front-end-dev" class="anchor" aria-hidden="true" href="#welcome-to-my-github-im-francesco-a-front-end-dev">  </a>
-   <p>Ciao mi chiamo <strong>Francesco</strong>! In questa pagina troverai un pò di informazioni relative alla mie conoscenze in ambito IT e avrai modo anche di contattarmi per continuare la nostra conoscenza</p>
+   <p>Ciao, piacere <strong>Francesco</strong>!
+      <br>
+      In questa pagina troverai un pò di informazioni relative alla mie conoscenze in ambito IT e avrai modo anche di contattarmi per continuare la nostra conoscenza</p>
 </div>
 <!--- END ABOUT ME --->
 
