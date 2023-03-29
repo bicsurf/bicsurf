@@ -106,8 +106,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--- STATISTICHE GITHUB --->
-<div id="badges" align="center">
-   <h3>Github Stats</h3>
+<h3>Github Stats</h3>
+<div align="center">
    <p>
       <a href="#">
          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bicsurf&layout=compact&theme=buefy&hide_border=true" style="max-width:100%;" />
