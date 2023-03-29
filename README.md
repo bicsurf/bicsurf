@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 <!--- LINGUAGGI STUDIATI --->
 <!--- FRONTEND --->
 <h2>:wrench: Hard Skills</h2>
-<h3 dir="auto">:point_right: Frontend Development</h3>
+<h3 dir="auto">&#128073; Frontend Development</h3>
 <p align="center" dir="auto">
    <a href="https://www.w3schools.com/html/" rel="nofollow" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
