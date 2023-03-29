@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <!--- END ABOUT ME --->
 
 <!--- BADGE LINKEDIN --->
-<div id="badges" align="center">
+<div align="center">
    <h3><strong>Vuoi contattarmi?</strong></h3>
    <p>
       <a href="https://www.linkedin.com/in/francesco-conoscenti/" target="_blank">
@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 <!--- LINGUAGGI STUDIATI --->
 <!--- FRONTEND --->
 <h2>:wrench: Hard Skills</h2>
-<h3 dir="auto">&#128073; Frontend Development</h3>
+<h3 dir="auto">:point_right: Frontend Development</h3>
 <p align="center" dir="auto">
    <a href="https://www.w3schools.com/html/" rel="nofollow" target="_blank">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
@@ -108,7 +108,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--- STATISTICHE GITHUB --->
-<h2>:point_right: Github Stats</h2>
+<h2>:bar_chart: Github Stats</h2>
 <a href="#">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bicsurf&layout=compact&theme=buefy&hide_border=true" style="max-width:100%;" />
 </a>
