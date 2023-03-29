@@ -107,15 +107,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--- STATISTICHE GITHUB --->
 <h2>Github Stats</h2>
-<table align="center">
-   <thead>
-      <tr>
-         <th>
-            <a href="#">
+<a href="#">
                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bicsurf&layout=compact&theme=buefy&hide_border=true" style="max-width:100%;" />
             </a>
-         </th>
-      </tr>
-   </thead>
-</table>
 <!--- END STATISTICHE GITHUB --->
