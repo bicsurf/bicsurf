@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <!--- INTRO --->
 <p align="center" dir="auto">
    <a href="#">
-      <img src="https://readme-typing-svg.herokuapp.com?color=0EA7B6FF&background=76767600&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer" data-canonical-src="https://git.io/typing-svg" style="max-width: 100%;" />
+      <img src="https://readme-typing-svg.herokuapp.com?color=C3002F&background=76767600&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer" data-canonical-src="https://git.io/typing-svg" style="max-width: 100%;" />
    </a>
 </p>
 <!--- END INTRO --->
