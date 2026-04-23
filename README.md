@@ -1,115 +1,141 @@
-<!---
-bicsurf/bicsurf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--- INTRO --->
-<p align="center" dir="auto">
-   <a href="#">
-      <img src="https://readme-typing-svg.herokuapp.com?color=C3002F&background=76767600&center=true&vCenter=true&width=500&lines=Middle+Full+Stack+Developer" data-canonical-src="https://git.io/typing-svg" style="max-width: 100%;" />
+<!--- INTRO with a more dynamic SVG --->
+<p align="center">
+   <a href="https://github.com/bicsurf">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=C3002F&center=true&vCenter=true&width=600&lines=Middle+Full+Stack+Developer;Passionato+di+Tecnologia;Sempre+in+Apprendimento!" alt="Typing SVG" />
    </a>
 </p>
-<!--- END INTRO --->
 
+<!--- Separatore --->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!--- ABOUT ME --->
+<!--- ABOUT ME: More personal and inviting --->
 <div align="center">
-   <a id="user-content-welcome-to-my-github-im-francesco-a-front-end-dev" class="anchor" aria-hidden="true" href="#welcome-to-my-github-im-francesco-a-front-end-dev">  </a>
-   <p>Ciao, piacere <strong>Francesco</strong>!
-      <br>
-      In questa pagina troverai un pò di informazioni relative alla mie conoscenze in ambito IT e avrai modo anche di contattarmi per continuare la nostra conoscenza</p>
-</div>
-<!--- END ABOUT ME --->
-
-<!--- BADGE LINKEDIN --->
-<div align="center">
-   <h3><strong>Vuoi contattarmi?</strong></h3>
+   <h1>Ciao! 👋 Sono <strong style="color: #C3002F;">Francesco Conoscenti</strong></h1>
    <p>
-      <a href="https://www.linkedin.com/in/francesco-conoscenti/" target="_blank">
-         Scrivermi su LinkedIn
-      </a>
+      Benvenuto nel mio angolo di GitHub! 🚀 <br>
+      Sono uno <strong>Middle Full Stack Developer</strong> con una passione sfrenata per la creazione di applicazioni web performanti e dall'interfaccia accattivante.
    </p>
-</div>              
-<!--- END BADGE LINKEDIN --->
+   <p>
+      💻 Attualmente sto approfondendo <strong>Angular</strong> e <strong>Laravel</strong>. <br>
+      🌱 Credo nell'apprendimento continuo e nel miglioramento costante. <br>
+      🤝 Sono aperto a collaborazioni su progetti Open Source interessanti!
+   </p>
+</div>
 
+<!--- Separatore --->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!--- LINGUAGGI STUDIATI --->
-<!--- FRONTEND --->
-<h2>:wrench: Hard Skills</h2>
-<h3 dir="auto">:point_right: Frontend Development</h3>
-<p align="center" dir="auto">
-   <a href="https://www.w3schools.com/html/" rel="nofollow" target="_blank">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+<!--- CONTACT SECTION: Cleaner and with more options --->
+<h2 align="center">📫 Contattami</h2>
+<p align="center">
+   Vuoi parlare di lavoro, tecnologia o semplicemente fare due chiacchiere?<br>
+   Troverai i miei contatti qui sotto!
+</p>
+
+<p align="center">
+   <a href="https://www.linkedin.com/in/francesco-conoscenti/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
-   <a href="https://www.w3schools.com/css/" rel="nofollow" target="_blank">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
+   <a href="mailto:tuo.email@example.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
    </a>
-   <a href="https://getbootstrap.com/" rel="nofollow" target="_blank">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="BOOTSTRAP" alt="BOOTSTRAP" width="60" height="60"/>&nbsp;
+   <!-- Aggiungi un badge per il tuo portfolio se ne hai uno -->
+   <!--
+   <a href="https://tuo-sito.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
    </a>
-   <a href="https://www.w3schools.com/js/" rel="nofollow" target="_blank">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+   -->
+</p>
+
+<!--- Separatore --->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!--- SKILLS SECTION: Better organized and with corrected titles --->
+<h2 align="center">🛠️ Hard Skills</h2>
+
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+   <a href="https://www.w3.org/html/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
    </a>
-   <a href="https://angular.io/start" rel="nofollow" target="_blank">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="VUEJS" alt="VUEJS" width="60" height="60"/>&nbsp;
+   <a href="https://www.w3schools.com/css/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+   </a>
+   <a href="https://getbootstrap.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
+   </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+   </a>
+   <a href="https://angular.io" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/> <!-- CORRETTO: title e alt ora sono Angular -->
    </a>
 </p>
-<!--- END FRONTEND --->
 
-<!--- BACKEND --->
-<h3 dir="auto">:point_right: Backend Development</h3>
-   <p align="center" dir="auto">
-      <a href="https://www.php.net/" rel="nofollow" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="60" height="60"/>&nbsp;
-      </a>
-      <a href="https://laravel.com/docs/9.x" rel="nofollow" target="_blank">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="LARAVEL"  alt="LARAVEL" width="60" height="60"/>&nbsp;
-      </a>
-      <a href="https://www.mysql.com/it/" rel="nofollow" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
-      </a>
-      <a href="https://nodejs.org/it/" rel="nofollow" target="_blank">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
-      </a>
+<h3 align="center">⚙️ Backend & Database</h3>
+<p align="center">
+   <a href="https://www.php.net" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+   </a>
+   <a href="https://laravel.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="50"/>
+   </a>
+   <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+   </a>
+   <a href="https://nodejs.org" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
+   </a>
+</p>
+
+<h3 align="center">🛠️ Tools & IDEs</h3>
+<p align="center">
+   <a href="https://git-scm.com/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+   </a>
+   <a href="https://about.gitlab.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="40" height="40"/>
+   </a>
+   <a href="https://www.figma.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+   </a>
+   <a href="https://code.visualstudio.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+   </a>
+   <a href="https://trello.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="Trello" width="50" height="50"/>
+   </a>
+</p>
+
+<!--- Separatore --->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!--- GITHUB STATS: Now with more stats and a nice layout --->
+<h2 align="center">📊 Statistiche GitHub</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bicsurf&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bicsurf&theme=buefy&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bicsurf&layout=compact&theme=buefy&hide_border=true&langs_count=8" alt="Top Languages" />
+  <!-- Opzionale: Aggiungi una card con il tuo trofeo GitHub -->
+  <!-- <img width="49%" src="https://github-profile-trophy.vercel.app/?username=bicsurf&theme=buefy&no-frame=true&row=2&column=3" alt="GitHub Trophies" /> -->
+</div>
+
+<!--- Separatore --->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!--- FOOTER: A nice touch --->
+<div align="center">
+   <p>
+      <i>"Il codice è come la poesia: ogni parola, ogni carattere, conta."</i> <br>
+      Grazie per essere passato! 🌟
    </p>
-<!--- END BACKEND --->
-
-<!--- TOOLS --->
-<h3 dir="auto">:point_right: Software & Tools</h3>
-   <p align="center" dir="auto">
-      <a href="https://git-scm.com/" rel="nofollow" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="60" height="60"/>
-      </a>
-      <a href="https://about.gitlab.com/" rel="nofollow" target="_blank">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab"  alt="GITLAB" width="60" height="60"/>&nbsp;
-      </a>
-      <a href="https://www.figma.com/" rel="nofollow" target="_blank">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma"  alt="FIGMA" width="60" height="60"/>&nbsp;
-      </a>
+   <p>
+      <img src="https://komarev.com/ghpvc/?username=bicsurf&label=Visite+al+Profilo&color=C3002F&style=flat" alt="Profile Views Counter" />
    </p>
-<!--- END TOOLS --->
-
-<!--- IDEs --->
-<h3 dir="auto">:point_right: IDEs</h3>
-   <p align="center" dir="auto">
-      <a href="https://code.visualstudio.com/" rel="nofollow" target="_blank">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE" width="60" height="60"/>
-      </a>
-   </p>
-<!--- END IDEs --->
-
-<!--- METODOLOGIA AGILE --->
-<h3 dir="auto">:point_right: Agile</h3>
-   <p align="center" dir="auto">
-      <a href="https://trello.com/" rel="nofollow" target="_blank">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="80" height="80"/>
-      </a>
-   </p>
-<!--- END METODOLOGIA AGILE --->
-
-
-<!--- STATISTICHE GITHUB --->
-<h2>:chart_with_upwards_trend: Github Stats</h2>
-<a href="#">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bicsurf&layout=compact&theme=buefy&hide_border=true" style="max-width:100%;" />
-</a>
-<!--- END STATISTICHE GITHUB --->
+   <!-- Piccola animazione decorativa -->
+   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+</div>
